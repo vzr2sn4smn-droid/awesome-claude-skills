@@ -125,6 +125,26 @@ Output the final result as a single, downloadable .pdf or .png file, alongside t
 
 Take a second pass. Go back to the code and refine/polish further to make this a philosophically designed masterpiece.
 
+## REVIEW BEFORE REFINING
+
+Before the refinement pass, look at the rendered canvas in a fixed order, so the polish goes to what matters most rather than whatever is most visible:
+
+1. **Two-second read**: what draws the eye first, and is that the element the philosophy makes primary?
+2. **Hierarchy**: one clear reading order; the largest, highest-contrast element is the intended one.
+3. **Consistency**: palette, line weight, type, and spacing obey the philosophy everywhere, including the corners nobody looks at first.
+4. **Containment and legibility**: nothing clipped, crossing the margin, or overlapping; every word readable at the size the piece will be viewed.
+5. **Fidelity**: no invented facts, logos, dates, or quotes; the text says exactly what was intended.
+
+Rate each finding as blocking / weakening / polish and fix blocking ones first. Also name one thing that works and must be preserved through the refinement.
+
+Reject and rebuild (rather than patch) when:
+- the philosophy has shrunk to a decorative border around an otherwise generic layout;
+- the piece reads as a template for its format (event flyer, certificate, slide) instead of an art object;
+- the subtle reference has become a literal illustration of the topic;
+- texture sits on top as a flat filter instead of belonging to the materials.
+
+*Review order and reject list adapted from [smixs/visual-skills](https://github.com/smixs/visual-skills) by Serge Shima (CC BY 4.0).*
+
 ## MULTI-PAGE OPTION
 
 To create additional pages when requested, create more creative pages along the same lines as the design philosophy but distinctly different as well. Bundle those pages in the same .pdf or many .pngs. Treat the first page as just a single page in a whole coffee table book waiting to be filled. Make the next pages unique twists and memories of the original. Have them almost tell a story in a very tasteful way. Exercise full creative freedom.

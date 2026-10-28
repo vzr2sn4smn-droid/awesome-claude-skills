@@ -55,5 +55,17 @@ After a preferred theme is selected:
 3. Ensure proper contrast and readability
 4. Maintain the theme's visual identity across all slides
 
+## Applying a Theme Consistently
+
+A theme falls apart less from the wrong colors than from colors used differently on each page. When applying any theme:
+
+- **Give every color a role** before using it: background, surface, text, accent, data. A color without a role is the one that ends up everywhere.
+- **One accent, one rule.** Decide where the accent appears (for example: headings and one key number per page) and apply exactly that rule on every page. Different accent usage per slide breaks a deck more than different layouts do.
+- **Check contrast**: body text at least 4.5:1 against its background, large headings at least 3:1. If a theme color fails on a given background, use the theme's text color instead of inventing a new one.
+- **Treat images the same way throughout**: same crop style, same overlay or duotone, same corner radius. A theme covers images, not only text.
+- **Say the theme out loud before applying it** to a large artifact. Confirming costs one message; re-theming a finished deck costs all of it.
+
+*Adapted from [smixs/visual-skills](https://github.com/smixs/visual-skills) by Serge Shima (CC BY 4.0).*
+
 ## Create your Own Theme
 To handle cases where none of the existing themes work for an artifact, create a custom theme. Based on provided inputs, generate a new theme similar to the ones above. Give the theme a similar name describing what the font/color combinations represent. Use any basic description provided to choose appropriate colors/fonts. After generating the theme, show it for review and verification. Following that, apply the theme as described above.
